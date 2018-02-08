@@ -6,10 +6,10 @@ class Counter extends React.Component {
   constructor(props){
     super(props)
     this.handleIncrement = this.handleIncrement.bind(this)
+    this.state = {
+      count: 0
+    };
   }
-  state = {
-    count: 0
-  };
 
   // handleIncrement increments this.state.count by 1
   handleIncrement = () => {
