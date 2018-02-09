@@ -16,7 +16,7 @@ In this activity we will add some new functionality to the previous form example
 
      1. If the user hasn't provided a first and last name, throw an alert saying: "Fill out your first and last name please!".
 
-     2. If the user has provided a first and last name, but their password is less than 6 characters, throw an alert saying, "Choose a more secure password," followed by the full name. E.g. "Choose a more secure password, John Smith!"
+     2. If the user has provided a first and last name, but their password is less than 6 characters, throw an alert saying, "Choose a more secure password," followed by the full name. E.g. "Choose a more secure password, John Smith! "
 
      3. Else, throw an alert to greet the user. E.g. "Hello, John Smith!".
   

@@ -1,6 +1,6 @@
 import React from "react";
-import Counter from "./components/Counter";
+import Form from "./components/Form";
 
-const App = () => <Counter />;
+const App = () => <Form />;
 
 export default App;
